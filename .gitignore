@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env / Config
+.env
+application.yml
+application-local.yml
+application-dev.yml
+application-prod.yml
+
+# Redis
+dump.rdb
+
+# Testcontainers
+testcontainers.properties
